@@ -5,7 +5,7 @@ const lightBox = document.querySelector(".lightbox");
 const closeBtn = lightBox.querySelector(".uil-times");
 const downloadImgBtn = lightBox.querySelector(".uil-import");
 
-const apiKey = "iZzvoLcmZgvo6dZkw4tsRk30rqcRwcsOr3lF0EKap5xtDmjOrBcXmiU9";
+const apiKey = apiKey;
 const perPage = 15;
 let currentPage = 1;
 let searchTerm = null;
